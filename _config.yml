@@ -1,8 +1,8 @@
 # Site settings
 title: "Letmeunsubscribe"
 description: "keeping vigilant on shady cancellation methods out there."
-baseurl: ""
-url: ""
+baseurl: "/letmeunsubscribe"
+url: "https://octopodsio.github.io/letmeunsubscribe/"
 author: "Tarek Khalil"
 
 # Build settings
