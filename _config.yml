@@ -1,9 +1,9 @@
 # Site settings
-title: "TextLog"
-description: "Minimalist Jekyll theme for documentation site"
-baseurl: "/letmeunsubscribe" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
+title: "Letmeunsubscribe"
+description: "keeping vigilant on shady cancellation methods out there."
+baseurl: ""
 url: ""
-author: "John Doe"
+author: "Tarek Khalil"
 
 # Build settings
 kramdown:
